@@ -42,22 +42,22 @@ content:
       sites:
         - name: GitLib
           description: （LDAP）代码托管仓库
-          url: http://pang.honglei.vip:11307
+          url: https://gitlab.honglei.vip
         - name: JumpServer
           description: （LDAP）堡垒机
-          url: http://pang.honglei.vip:11381
+          url: https://jumpserver.honglei.vip
         - name: Jenkins
           description: （LADP）持续集成与持续部署
-          url: http://pang.honglei.vip:11380
+          url: https://jenkins.honglei.vip
         - name: Drone
           description: （LDAP）Drone
-          url: http://pang.honglei.vip:11500
+          url: https://drone.honglei.vip
         - name: Harbor
           description: （LDAP）Harbor
-          url: https://pang.honglei.vip:16443
+          url: https://harbor.honglei.vip
         - name: Dockge
           description: （LDAP）Dockge
-          url: http://pang.honglei.vip:11501
+          url: https://dockge.honglei.vip
     - name: 常用推荐
       sites:
         - name: 蓝湖
