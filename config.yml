@@ -43,21 +43,27 @@ content:
         - name: GitLib
           description: （LDAP）代码托管仓库
           url: https://gitlab.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/gitlab.png
         - name: JumpServer
           description: （LDAP）堡垒机
           url: https://jumpserver.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jumpserver.png
         - name: Jenkins
           description: （LADP）持续集成与持续部署
           url: https://jenkins.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jenkins.png
         - name: Drone
           description: （LDAP）Drone
           url: https://drone.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/drone.png
         - name: Harbor
           description: （LDAP）Harbor
           url: https://harbor.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/harbor.png
         - name: Dockge
           description: （LDAP）Dockge
           url: https://dockge.honglei.vip
+          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dockge.png
     - name: 常用推荐
       sites:
         - name: 蓝湖
